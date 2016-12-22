@@ -24,15 +24,15 @@ To create my own solution for this challenge, I studied about the Titanic and it
 
 #The Titanic Decks 
 
-![](Titanic Decks.png)
+![](/Titanic Decks.png)
 
 #The Titanic Boat Deck plan with the lifeboats location
 
-![](Titanic_Boat_Deck_plan_with_lifeboats.png)
+![](https://github.com/soanems/titanic/blob/master/Titanic_Boat_Deck_plan_with_lifeboats.png)
 
 #Titanic Class System
 
-![](r_m_s__titanic_class_system_by_monroegerman-d787jna.png)
+![](/r_m_s__titanic_class_system_by_monroegerman-d787jna.png)
 
 
 Some information can be found in websites as <https://www.encyclopedia-titanica.org/> or <http://www.titanicfacts.net/titanic-passengers.html>.
