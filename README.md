@@ -649,7 +649,10 @@ For future work, would be interesting evaluate the distance between the passenge
 
 #My Kaggle score in the Titanic Challenge
 
-![](MyKaggleScore.png)
+![](/MyKaggleScore.png)
+
+
+
 
 
 #APPENDIX
